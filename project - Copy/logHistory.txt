@@ -1,0 +1,6 @@
+=> browseAnImg function was called
+=> Image path was chosen from the dialog box
+=> image path is set to C:/Users/dell/Downloads/UI/sss.png
+=> browseAnImg function was called
+=> Image path was chosen from the dialog box
+=> image path is set to C:/Users/dell/Downloads/UI/sss.png
